@@ -1,0 +1,13 @@
+#heading{
+color: brown;
+}
+.element{
+    display: flex;
+    align-items: center;
+}
+.element>label{
+    width: 250px;
+}
+.element>input{
+    width: 150px;
+}
